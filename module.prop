@@ -1,0 +1,7 @@
+id=s2sd
+name=sweep2sleep Disabler
+version=v1.0
+versionCode=1
+author=tfae
+description=sweep2sleep is a gesture that makes your device sleep if you slide right to left on the bottom of your screen. This module Disables sweep2sleep on RR N ROMs (not tested on other ROMs)
+template=4
