@@ -8,4 +8,5 @@ This is a Magisk module that disables sweep2sleep on RR N ROMs (not tested on ot
 
 ## Changelog
 1.1 - Added to GitHub repo
+
 1.0 - Initial release
