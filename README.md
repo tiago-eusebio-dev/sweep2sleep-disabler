@@ -12,8 +12,8 @@ echo "0" > sys/sweep2sleep/sweep2sleep
 
 #### Changelog
 
-* 1.1 - Added to GitHub repo
-* 1.0 - Initial release
+* 1.1 (25.07.2017) - Added to GitHub repo
+* 1.0 (25.07.2017) - Initial release
 
 #### Magisk Template
 v4
