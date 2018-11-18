@@ -4,7 +4,7 @@ sweep2sleep Disabler
 sweep2sleep is a gesture that exists on some Android ROMs (eg. Resurrection Remix) that makes your device sleep if you slide right or left on the bottom of your screen.
 
 This module disables sweep2sleep by running the following command in the "late_start" service:
-echo "0" > sys/sweep2sleep/sweep2sleep
+`echo "0" > sys/sweep2sleep/sweep2sleep`
 
 
 ## Changelog
