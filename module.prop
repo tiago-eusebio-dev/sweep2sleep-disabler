@@ -1,7 +1,7 @@
 id=sweep2sleep-disabler
 name=sweep2sleep Disabler
-version=v1.3
-versionCode=4
+version=3
+versionCode=3
 author=tfae
 description=sweep2sleep is a gesture that makes your device sleep if you slide on the bottom of your screen. This module Disables sweep2sleep on ROMs with this feature.
-template=1400
+minMagisk=17000
