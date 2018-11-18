@@ -17,8 +17,7 @@ echo "0" > sys/sweep2sleep/sweep2sleep
 
 
 ## Changelog
-### v1.0
-* First Release
+* 1.0 - First Release
 
 
 ## Credits
