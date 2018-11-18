@@ -6,11 +6,10 @@ sweep2sleep is a gesture that exists on some Android ROMs (eg. Resurrection Remi
 This module disables sweep2sleep by running the following command in the "late_start" service:
 echo "0" > sys/sweep2sleep/sweep2sleep
 
-<a href="https://forum.xda-developers.com/apps/magisk/magisk-sweep2sleep-disabler-t3681631"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a>
 
-
-## Compatibility
+## Links
 * [![Magisk](https://img.shields.io/badge/Magisk-v17%2B-brightgreen.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+* [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/magisk-sweep2sleep-disabler-t3681631)
 
 
 ## Reminder
