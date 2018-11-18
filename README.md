@@ -9,7 +9,9 @@ This module disables sweep2sleep by running the following command in the "late_s
 
 
 ## Changelog
-* 1.0 - First Release
+* v1.2 (07.09.2017) - Updated to v1400 template
+* v1.1 (25.07.2017) - Added to GitHub repo
+* v1.0 (25.07.2017) - Initial release
 
 
 ## Notice
