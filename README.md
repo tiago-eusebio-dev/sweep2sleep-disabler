@@ -10,7 +10,7 @@ This module disables sweep2sleep by running the following command in the "late_s
 
 ## Changelog
 * v3   (18.11.2018) - Update to Magisk v17000 template
-* v1.2 (07.09.2017) - Update to MAgisk v1400 template
+* v1.2 (07.09.2017) - Update to Magisk v1400 template
 * v1.1 (25.07.2017) - Added to GitHub repo
 * v1.0 (25.07.2017) - Initial release
 
