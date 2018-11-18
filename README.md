@@ -7,17 +7,18 @@ This module disables sweep2sleep by running the following command in the "late_s
 echo "0" > sys/sweep2sleep/sweep2sleep
 
 
+## Changelog
+* 1.0 - First Release
+
+
+## Notice
+* Take a full backup before installing the module.
+* You should use latest Magisk Manager to install this module. If you meet any problem under installation from Magisk Manager, please try to install it from recovery.
+
+
 ## Links
 * [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/magisk-sweep2sleep-disabler-t3681631)
 * [![Magisk](https://img.shields.io/badge/Magisk-v17%2B-brightgreen.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
-
-
-## Reminder
-* Take a full backup before installing the module.
-
-
-## Changelog
-* 1.0 - First Release
 
 
 ## Credits
