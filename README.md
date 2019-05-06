@@ -31,4 +31,4 @@ This module disables sweep2sleep by running the following command in the "late_s
 * <a href="https://forum.xda-developers.com/member.php?u=4960264">Salkrikaltor@xda</a> for <a href="https://forum.xda-developers.com/showpost.php?p=70733735&postcount=962">sharing</a> how to disable it.
 
 
-Copyright (C) 2017-2018 <a href="https://forum.xda-developers.com/member.php?u=6415870">tfae@xda</a> (tfaeusebio@gmail.com)
+Copyright (C) 2017-2019 <a href="https://forum.xda-developers.com/member.php?u=6415870">tfae@xda</a> (tfaeusebio@gmail.com)
