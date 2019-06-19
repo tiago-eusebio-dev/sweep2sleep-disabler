@@ -23,7 +23,7 @@ This module disables sweep2sleep by running the following command in the "late_s
 
 ## Links
 * [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/magisk-sweep2sleep-disabler-t3681631)
-* [![Magisk](https://img.shields.io/badge/Magisk-v17%2B-brightgreen.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+* [![Magisk](https://img.shields.io/badge/Magisk-18%2B-00B39B.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 
 
 ## Credits
